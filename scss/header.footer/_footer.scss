@@ -1,0 +1,13 @@
+.footer{
+    width: 100%;
+    &__redes{
+        display: flex;
+        list-style: none; 
+        justify-content: center ;
+        a{
+            color: black;
+            margin: 5px;
+        }
+        
+    }
+}

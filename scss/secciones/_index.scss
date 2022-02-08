@@ -1,0 +1,11 @@
+.primeraSeccion{
+    margin: -15px;
+    .videoPresentacion{
+        width: 100%;
+    }
+    &__titulo{
+        color: #a700fa;
+        margin: 15px auto;
+        font-size: 50px;
+    }
+}

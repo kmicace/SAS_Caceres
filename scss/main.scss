@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Amaranth', sans-serif;
+    font-family: 'Vollkorn', serif;
+}
+/*variables*/
+@import './variables/colores';
+/*importaciones*/
+@import './header.footer/header';
+@import './secciones/index';
+@import './header.footer/footer';
